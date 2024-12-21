@@ -1,0 +1,374 @@
+{
+  "Gallery": [
+    {
+      "id": "2",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369263822256587_755505201319267_3894651955655991193_o.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369263922279930_755505377985916_8476700858321111486_n.jpg"
+    },
+    {
+      "id": "4",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369264322281637_755505154652605_7211210823601191772_n.jpg"
+    },
+    {
+      "id": "5",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369264522281728_755504671319320_8769662201509331749_n.jpg"
+    },
+    {
+      "id": "6",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369264622291199_755505324652588_7138773640804786819_o.jpg"
+    },
+    {
+      "id": "7",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369264822308919_755505357985918_7222726976481689908_n.jpg"
+    },
+    {
+      "id": "8",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369264722308572_755504664652654_4975059053488459459_n.jpg"
+    },
+    {
+      "id": "9",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369264822339057_755505064652614_2224007727540098816_o.jpg"
+    },
+    {
+      "id": "10",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369264922339100_755504774652643_5032892135808489638_o.jpg"
+    },
+    {
+      "id": "11",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369265046819818_1006558956213889_4018824650036346880_n.jpg"
+    },
+    {
+      "id": "12",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369265246945572_1006558869547231_7082276010246275072_n.jpg"
+    },
+    {
+      "id": "13",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369265146831368_1006558832880568_4171758453942910976_n.jpg"
+    },
+    {
+      "id": "14",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369265461674307_681603118941485_1760110926847016960_n.jpg"
+    },
+    {
+      "id": "15",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/156500369265361542313_730411374028374_1001588619695095808_n.jpg"
+    },
+    {
+      "id": "16",
+      "image": " https://www.visionvivaah.com/gallery-image/thumbnail/1565003692656A40I0960.JPG"
+    },
+    {
+      "id": "17",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692657A40I0965.JPG"
+    },
+    {
+      "id": "30",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692661IMG_0614.JPG"
+    },
+    {
+      "id": "18",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692662IMG_0615.JPG"
+    },
+    {
+      "id": "19",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692663IMG_0616.JPG"
+    },
+    {
+      "id": "20",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692663IMG_0619.JPG"
+    },
+    {
+      "id": "21",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692664IMG_0620.JPG"
+    },
+    {
+      "id": "22",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692665IMG_0787.JPG"
+    },
+    {
+      "id": "23",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692666IMG_0788.JPG"
+    },
+    {
+      "id": "24",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692667IMG_9514.JPG"
+    },
+    {
+      "id": "25",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692668IMG_9898.JPG"
+    },
+    {
+      "id": "26",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692669IMG_9900.JPG"
+    },
+    {
+      "id": "27",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692670IMG_9948.JPG"
+    },
+    {
+      "id": "28",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692671IMG_9951.JPG"
+    },
+    {
+      "id": "29",
+      "image": "https://www.visionvivaah.com/gallery-image/thumbnail/1565003692671IMG_9949.JPG"
+    },
+    {
+      "id": "44a1",
+      "image": "https://i.pinimg.com/736x/57/f6/7a/57f67a7dbfaf500e3398a9395207821c.jpg"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "image": "https://www.visionvivaah.com/customer/demo.png",
+      "text": "It was our pleasure to have you as our wedding planners for our Wedding in Jodhpur, Rajasthan.Our guest reallyn appreciated the cocktail night before the marriage where they were entertained by the Rajasthani Fold Dancers.",
+      "name": "ROHIT KUMAR",
+      "location": " - Mohali"
+    },
+    {
+      "id": "2",
+      "image": "https://www.visionvivaah.com/customer/demo.png",
+      "text": "To begin with we are extremely obliged to Okasion Xperts for organizing memorable for us. We are from New York and we had decided to have our weeding in an India following our culture and tradition.",
+      "name": "Babita Garg",
+      "location": " - Chandigarh"
+    },
+    {
+      "id": "3",
+      "image": "https://www.visionvivaah.com/customer/demo.png",
+      "text": "Thank you very much for helping us co-ordinate our wedding. We had a fantastic day and everything ran smoothly thanks tom your help. The ballroom looked amazing and the service was fantastic.",
+      "name": "Khushwant Singh",
+      "location": " - Amritsar"
+    },
+    {
+      "id": "4",
+      "image": "https://www.visionvivaah.com/customer/demo.png",
+      "text": "Thank you for all your hard work in organising our wedding reception. Luke and I were extremely impressed with your professionalism and patience! We had an amazing time and we were very happy with the service",
+      "name": "Sumit Kumar",
+      "location": " - Amritsar"
+    },
+    {
+      "id": "5",
+      "image": "https://www.visionvivaah.com/customer/demo.png",
+      "text": "Thank you, thank you, thank you for all your help, advice and support with planning our wedding at the InterContinental. The reception was unbelievable, exactly how we imagined and more!.",
+      "name": "Gurmit Singh",
+      "location": " - Chandigarh"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175349.jpg",
+      "wedding-type": "Destination Wedding",
+      "text": "Picture yourselves in a warm, luxurious atmosphere with happy friends and family toasting the two of you after recuperating from travel time. Music"
+    },
+    {
+      "id": "2",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175323.jpg",
+      "wedding-type": "Wedding Planning",
+      "text": "Wedding is the most important time of the life for you, it brings a lot of responsibilities and stress as well. There are tons of things that you ha"
+    },
+    {
+      "id": "3",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175337.jpg",
+      "wedding-type": "Venue Selection",
+      "text": "We as planners are much more familiar with the capabilities of a space, the layout, and the time and items you'll need to really transform it. We se"
+    },
+    {
+      "id": "4",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175362.jpg",
+      "wedding-type": "Pre Wedding Rituals",
+      "text": "An Indian wedding is a sweet concoction of traditions, values and rituals that are not just beautiful to look at but have a deeper meaning - a more"
+    },
+    {
+      "id": "5",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175415.jpg",
+      "wedding-type": "Wedding Entertainment",
+      "text": "A crucial mistake some couples make is underestimating the importance of the entertainment on their special day. Whether it’s a DJ or a Band, hiri"
+    },
+    {
+      "id": "6",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175438.jpg",
+      "wedding-type": "Wedding Decor",
+      "text": "No Indian wedding is ever complete without elaborate wedding decorations.  Colorful Indian weddings require proper preparation, planning and co"
+    },
+    {
+      "id": "7",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175132.jpg",
+      "wedding-type": "Bride Groom Entry",
+      "text": "The well planned and properly executed themed Bride-Groom entries create the first impression of grandeur that lasts forever in the memories of your"
+    },
+    {
+      "id": "8",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175384.jpg",
+      "wedding-type": "Catering",
+      "text": "All you need is Love and Good Food! From Appetizing, Lip-smacking Chaat, to Mouthwatering, Savoury Main Course, we would want all the guests to reli"
+    },
+    {
+      "id": "9",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175426.jpg",
+      "wedding-type": "Hospitality",
+      "text": "Hospitality plays a chief role in weddings & event planning services everything from the startups till the end of the celebration, and is the ma"
+    },
+    {
+      "id": "11",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175405.jpg",
+      "wedding-type": "Wedding Photography Videography",
+      "text": "photography ought to be  superlative, because it will capture your day, it will capture your memories, and  will tell a beautiful story of"
+    },
+    {
+      "id": "12",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175395.jpg",
+      "wedding-type": "Makeup Artist",
+      "text": "for every woman, her marriage is just about the most important event in her whole life, so looking best on that special day is the wish of each and"
+    },
+    {
+      "id": "13",
+      "image": "https://www.visionvivaah.com/services-image/thumbnail/1565175301.jpg",
+      "wedding-type": "Wedding Dance Choreographer",
+      "text": "Weddings earlier were serious affair with rigid rituals, songs to melt hearts, and emotional outbursts. They still are, but with a more re"
+    }
+  ],
+  "teams": [
+    {
+      "id": "1",
+      "image": "https://www.visionvivaah.com/team/Director.jpg",
+      "name": "S.k.Bhardwaj",
+      "post": "Director",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "2",
+      "image": "https://www.visionvivaah.com/team/HR.JPG",
+      "name": "Monika Singh",
+      "post": "HR",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "3",
+      "image": "https://www.visionvivaah.com/team/Picture1.png",
+      "name": "Kanika Takkar",
+      "post": "general manager",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "4",
+      "image": "https://www.visionvivaah.com/team/Picture2.png",
+      "name": "Anurag Jolly",
+      "post": "general manager",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "5",
+      "image": "https://www.visionvivaah.com/team/Picture3.png",
+      "name": "Kritika Sharama",
+      "post": "senior manager",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "6",
+      "image": "https://www.visionvivaah.com/team/Picture4.png",
+      "name": "Suyash Sadana",
+      "post": "manager",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "7",
+      "image": "https://www.visionvivaah.com/team/Picture5.png",
+      "name": "Sandeep Kapoor",
+      "post": "Head Decoration",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "8",
+      "image": "https://www.visionvivaah.com/team/Picture6.png",
+      "name": "Rishi joshi",
+      "post": "Head-Entertainment",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    },
+    {
+      "id": "9",
+      "image": "https://www.visionvivaah.com/team/Picture7.png",
+      "name": "Preety Mehta",
+      "post": "Head-Catering",
+      "text": "We make you comfortable to enjoy each and every function along with your family, friends, and relatives."
+    }
+  ],
+  "slider": [
+    {
+      "id": "1",
+      "image": "https://www.visionvivaah.com/slider/1693562343.jpg"
+    },
+    {
+      "id": "2",
+      "image": "https://www.visionvivaah.com/slider/1693562365.jpg"
+    },
+    {
+      "id": "3",
+      "image": "https://www.visionvivaah.com/slider/1693562379.jpg"
+    }
+  ],
+  "slide": [
+    {
+      "id": "1",
+      "image": "https://www.visionvivaah.com/footerslider/1563768275.png"
+    },
+    {
+      "id": "2",
+      "image": "https://www.visionvivaah.com/footerslider/1693563010.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Vivek kumar",
+      "email": "vivekkumar834046@gmail.com",
+      "mobile": "7544037190",
+      "city": "patna",
+      "message": "This is my first website"
+    },
+    {
+      "id": "528d",
+      "name": "JAfar",
+      "email": "JafarAnsari@gmail.com",
+      "mobile": "7352950075",
+      "city": "MARCHI/मरची",
+      "message": "hi i am pintu singh"
+    },
+    {
+      "id": "e8cb",
+      "name": "Vivek Guptafyt,l;'.k",
+      "email": "vivekkumar834046@gmail.com",
+      "mobile": "7544037190",
+      "city": "GHaziabad",
+      "message": "fuhnl;kopiopk[p]o"
+    },
+    {
+      "id": "f726",
+      "name": "ojbdlo;bjk[a",
+      "email": "vivekkumar834046@gmail.com",
+      "mobile": "7544037190",
+      "city": "GHaziabad",
+      "message": "76786592382578"
+    },
+    {
+      "id": "800d",
+      "name": "Kamal sdgi",
+      "email": "vivekkumar834046@gmail.com",
+      "mobile": "7544037190",
+      "city": "GHaziabad",
+      "message": "uhoijopjkpjk0"
+    },
+    {
+      "id": "3980",
+      "name": "javed mirza",
+      "email": "vivekkumar834046@gmail.com",
+      "mobile": "7544037190",
+      "city": "GHaziabad",
+      "message": "r.;/"
+    }
+  ]
+}
